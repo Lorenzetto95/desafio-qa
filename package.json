@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "cypress-plugin-api": "^2.11.2",
     "mochawesome": "^7.1.3",
     "npm": "^11.5.1"
   },

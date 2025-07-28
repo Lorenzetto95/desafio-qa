@@ -1,3 +1,14 @@
+Cypress.Commands.add('contato', (usuario, email, empresa, cargo, telefone, mensagem) => { 
+    cy.get('#form-field-name').type(usuario);
+    cy.get('#form-field-email').type(email);
+    cy.get('#form-field-message').type(empresa);
+    cy.get('#form-field-field_67e0483').type(cargo);
+    cy.get('#form-field-field_5778e7b').type(telefone);
+    cy.get('#form-field-field_f77a763').type(mensagem);
+    cy.get('#form-field-field_7651528').click();
+    cy.get('.elementor-field-type-submit > .elementor-button > .elementor-button-content-wrapper').should('be.visible');
+ })
+
 // ***********************************************
 // This example commands.js shows you how to
 // create various custom commands and overwrite
