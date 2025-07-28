@@ -10,7 +10,7 @@ module.exports = defineConfig({
     },
   },
   video: false,
-  image: true,
+  image: false,
   reporterer: 'mochawesome',
   reportDir: 'cypress/reports',
   overwrite: false,

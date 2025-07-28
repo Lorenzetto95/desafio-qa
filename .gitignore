@@ -1,0 +1,24 @@
+touch .gitignore
+
+# Node.js
+node_modules/
+
+# Cypress arquivos gerados
+cypress/screenshots/
+cypress/videos/
+
+# Arquivo com variáveis de ambiente
+cypress.env.json
+
+# Configurações de ambiente/IDE
+.env
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+teste-token.cy.js
