@@ -2,9 +2,8 @@
 
 ## Resumo
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+Esse arquivo e bateria de testes foi criada como etapa de processo seletivo para o cargo de Analista de QA Pleno.
+Todo o conteúdo aqui será deletado assim que o processo seletivo se der por encerrado, com fins éticos para com a empresa por minha parte. 
 
 ### Pré-requisitos
 
