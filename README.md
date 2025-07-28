@@ -69,7 +69,7 @@ Para realização de um teste específico(Headless), utilizar o comando:
 
   - **Diego Lorenzetto** 
 
-## Créditos
+## Agradecimentos
 
 - [Filip Hrich](https://filiphric.com)
 
